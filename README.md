@@ -33,4 +33,9 @@ php artisan route:clear
 ````
 php artisan serve
 ````
+
+The credentials for access to panel is:
+user: test@admin.com
+pass: admin123
+
 Author: Jean Pierre Meza Cevallos
