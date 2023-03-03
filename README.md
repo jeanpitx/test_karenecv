@@ -10,6 +10,10 @@ Instructions:
 ````
 git clone https://github.com/jeanpitx/test_karenecv.git
 ````
+- move to resource with: 
+````
+cd test_karenecv
+````
 - Update package with:
 ````
 composer install

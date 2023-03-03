@@ -67,7 +67,7 @@ class OrderController extends Controller
      */
     public function all()
     {
-        $orders = Order::paginate(10);
+        $orders = Order::with('person')->paginate(10);
         return OrderResource::collection($orders);
     }
     
