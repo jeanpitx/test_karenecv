@@ -18,6 +18,10 @@ cd test_karenecv
 ````
 composer install
 ````
+- Migrate database and seed with:
+````
+php artisan migrate --seed
+````
 - Optimize project with:
 ````
 php artisan optimize
