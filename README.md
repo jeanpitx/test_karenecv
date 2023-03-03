@@ -18,6 +18,7 @@ cd test_karenecv
 ````
 composer install
 ````
+- Configure .env with your database connection.
 - Migrate database and seed with:
 ````
 php artisan migrate --seed
