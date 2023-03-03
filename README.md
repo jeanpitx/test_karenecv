@@ -25,7 +25,9 @@ php artisan migrate --seed
 ````
 - Optimize project with:
 ````
-php artisan optimize
+php artisan key:generate
+php artisan config:clear
+php artisan route:clear
 ````
 - Start project
 ````
