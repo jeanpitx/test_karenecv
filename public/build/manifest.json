@@ -1,0 +1,365 @@
+{
+  "resources/js/assets/img/pattern_vue.png": {
+    "file": "assets/pattern_vue.af962a46.png",
+    "src": "resources/js/assets/img/pattern_vue.png"
+  },
+  "resources/js/assets/img/register_bg_2.png": {
+    "file": "assets/register_bg_2.39fb9f48.png",
+    "src": "resources/js/assets/img/register_bg_2.png"
+  },
+  "resources/js/assets/img/happy-file.png": {
+    "file": "assets/happy-file.9b935d4c.png",
+    "src": "resources/js/assets/img/happy-file.png"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400.407a9723.eot",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.eot"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400.cf83ffb8.eot",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.eot"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.eot": {
+    "file": "assets/fa-solid-900.75a76115.eot",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.eot"
+  },
+  "resources/js/assets/img/team-1-800x800.jpg": {
+    "file": "assets/team-1-800x800.fdfd85ef.jpg",
+    "src": "resources/js/assets/img/team-1-800x800.jpg"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400.43c072c1.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400.8afc6e5e.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900.d0b4256a.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff": {
+    "file": "assets/fa-brands-400.aff76e5c.woff",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400.14c9db4f.woff",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900.74edc18b.woff",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400.06f4d009.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400.c651b8a6.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900.3d06af1f.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400.2326849b.svg",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.svg"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.svg": {
+    "file": "assets/fa-brands-400.679b5a52.svg",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.svg"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.svg": {
+    "file": "assets/fa-solid-900.fa498fb2.svg",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.b6150d7e.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Auth/ConfirmPassword.vue",
+      "resources/js/Pages/Auth/ForgotPassword.vue",
+      "resources/js/Pages/Auth/Login.vue",
+      "resources/js/Pages/Auth/Register.vue",
+      "resources/js/Pages/Auth/ResetPassword.vue",
+      "resources/js/Pages/Auth/VerifyEmail.vue",
+      "resources/js/Pages/Dashboard.vue",
+      "resources/js/Pages/Orders/Form.vue",
+      "resources/js/Pages/Orders/Index.vue",
+      "resources/js/Pages/Orders/Show.vue",
+      "resources/js/Pages/Persons/Form.vue",
+      "resources/js/Pages/Persons/Index.vue",
+      "resources/js/Pages/Persons/Show.vue",
+      "resources/js/Pages/SafeTest.vue",
+      "resources/js/Pages/Welcome.vue"
+    ],
+    "css": [
+      "assets/app.eee32911.css"
+    ],
+    "assets": [
+      "assets/fa-brands-400.407a9723.eot",
+      "assets/fa-brands-400.43c072c1.woff2",
+      "assets/fa-brands-400.aff76e5c.woff",
+      "assets/fa-brands-400.06f4d009.ttf",
+      "assets/fa-brands-400.679b5a52.svg",
+      "assets/fa-regular-400.cf83ffb8.eot",
+      "assets/fa-regular-400.8afc6e5e.woff2",
+      "assets/fa-regular-400.14c9db4f.woff",
+      "assets/fa-regular-400.c651b8a6.ttf",
+      "assets/fa-regular-400.2326849b.svg",
+      "assets/fa-solid-900.75a76115.eot",
+      "assets/fa-solid-900.d0b4256a.woff2",
+      "assets/fa-solid-900.74edc18b.woff",
+      "assets/fa-solid-900.3d06af1f.ttf",
+      "assets/fa-solid-900.fa498fb2.svg"
+    ]
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.vue": {
+    "file": "assets/ConfirmPassword.5e7ae86b.js",
+    "src": "resources/js/Pages/Auth/ConfirmPassword.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Auth.76b24869.js",
+      "_AuthInputErrors.937989b5.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "_Auth.76b24869.js": {
+    "file": "assets/Auth.76b24869.js",
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "assets": [
+      "assets/register_bg_2.39fb9f48.png"
+    ]
+  },
+  "_AuthInputErrors.937989b5.js": {
+    "file": "assets/AuthInputErrors.937989b5.js",
+    "imports": [
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "resources/js/app.js"
+    ]
+  },
+  "__plugin-vue_export-helper.cdc0426e.js": {
+    "file": "assets/_plugin-vue_export-helper.cdc0426e.js"
+  },
+  "resources/js/Pages/Auth/ForgotPassword.vue": {
+    "file": "assets/ForgotPassword.c7839ce1.js",
+    "src": "resources/js/Pages/Auth/ForgotPassword.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Auth.76b24869.js",
+      "_AuthInputErrors.937989b5.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.vue": {
+    "file": "assets/Login.9e7ed7c6.js",
+    "src": "resources/js/Pages/Auth/Login.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Auth.76b24869.js",
+      "_AuthInputErrors.937989b5.js",
+      "_AuthCheckbox.7d12d385.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "_AuthCheckbox.7d12d385.js": {
+    "file": "assets/AuthCheckbox.7d12d385.js",
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Register.vue": {
+    "file": "assets/Register.7d4daf2e.js",
+    "src": "resources/js/Pages/Auth/Register.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Auth.76b24869.js",
+      "_AuthInputErrors.937989b5.js",
+      "_AuthCheckbox.7d12d385.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ResetPassword.vue": {
+    "file": "assets/ResetPassword.db47fd7c.js",
+    "src": "resources/js/Pages/Auth/ResetPassword.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Auth.76b24869.js",
+      "_AuthInputErrors.937989b5.js",
+      "_AuthCheckbox.7d12d385.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/js/Pages/Auth/VerifyEmail.vue": {
+    "file": "assets/VerifyEmail.40badbb2.js",
+    "src": "resources/js/Pages/Auth/VerifyEmail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Auth.76b24869.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/js/Pages/Dashboard.vue": {
+    "file": "assets/Dashboard.84df0c84.js",
+    "src": "resources/js/Pages/Dashboard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Admin.0fe356b2.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "resources/js/app.js",
+      "_Dropdown.ca1146de.js"
+    ]
+  },
+  "_Admin.0fe356b2.js": {
+    "file": "assets/Admin.0fe356b2.js",
+    "imports": [
+      "_Dropdown.ca1146de.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "assets": [
+      "assets/team-1-800x800.fdfd85ef.jpg"
+    ]
+  },
+  "_Dropdown.ca1146de.js": {
+    "file": "assets/Dropdown.ca1146de.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Orders/Form.vue": {
+    "file": "assets/Form.dd527868.js",
+    "src": "resources/js/Pages/Orders/Form.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Admin.0fe356b2.js",
+      "_jquery.06ad7d76.js",
+      "_AdminInputErrors.e9111d90.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_Dropdown.ca1146de.js"
+    ]
+  },
+  "_jquery.06ad7d76.js": {
+    "file": "assets/jquery.06ad7d76.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_AdminInputErrors.e9111d90.js": {
+    "file": "assets/AdminInputErrors.e9111d90.js",
+    "imports": [
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Orders/Index.vue": {
+    "file": "assets/Index.983c2da0.js",
+    "src": "resources/js/Pages/Orders/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Admin.0fe356b2.js",
+      "_AdminInputSuccess.65c82f6c.js",
+      "resources/js/app.js",
+      "_Dropdown.ca1146de.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_jquery.06ad7d76.js"
+    ]
+  },
+  "_AdminInputSuccess.65c82f6c.js": {
+    "file": "assets/AdminInputSuccess.65c82f6c.js",
+    "imports": [
+      "resources/js/app.js",
+      "_jquery.06ad7d76.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/js/Pages/Orders/Show.vue": {
+    "file": "assets/Show.db491ff3.js",
+    "src": "resources/js/Pages/Orders/Show.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Admin.0fe356b2.js",
+      "resources/js/app.js",
+      "_Dropdown.ca1146de.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/js/Pages/Persons/Form.vue": {
+    "file": "assets/Form.9d09d9c4.js",
+    "src": "resources/js/Pages/Persons/Form.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Admin.0fe356b2.js",
+      "_jquery.06ad7d76.js",
+      "_AdminInputErrors.e9111d90.js",
+      "_Dropdown.ca1146de.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/js/Pages/Persons/Index.vue": {
+    "file": "assets/Index.dc419c8b.js",
+    "src": "resources/js/Pages/Persons/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Admin.0fe356b2.js",
+      "_AdminInputSuccess.65c82f6c.js",
+      "resources/js/app.js",
+      "_Dropdown.ca1146de.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_jquery.06ad7d76.js"
+    ]
+  },
+  "resources/js/Pages/Persons/Show.vue": {
+    "file": "assets/Show.e4bd3a76.js",
+    "src": "resources/js/Pages/Persons/Show.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Admin.0fe356b2.js",
+      "resources/js/app.js",
+      "_Dropdown.ca1146de.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/js/Pages/SafeTest.vue": {
+    "file": "assets/SafeTest.d45c3ce5.js",
+    "src": "resources/js/Pages/SafeTest.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Admin.0fe356b2.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "resources/js/app.js",
+      "_Dropdown.ca1146de.js"
+    ]
+  },
+  "resources/js/Pages/Welcome.vue": {
+    "file": "assets/Welcome.67cfd0fd.js",
+    "src": "resources/js/Pages/Welcome.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Dropdown.ca1146de.js"
+    ],
+    "assets": [
+      "assets/pattern_vue.af962a46.png"
+    ]
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.eee32911.css",
+    "src": "resources/js/app.css"
+  }
+}
